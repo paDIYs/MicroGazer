@@ -1,6 +1,6 @@
 # MicroGazer
 
-<a href="http://biohackingexperience.tumblr.com/"><img src="https://github.com/paDIYs/MicroGazer/blob/master/microgazer.JPG" width="100%"/></a>
+<a href="http://biohackingexperience.tumblr.com/"><img src="https://github.com/paDIYs/MicroGazer/blob/master/microgazer.JPG" width="600px"/></a>
 
 
 The “Micro-Gazer” is an innovative tool developed by the BioHacker Experience in collaboration with the FabLabTO: it is an automatic station for visualizing and analyzing the microbial growth on Petri Dish inoculated with the "Microbiome of a Maker" [learne more](http://biohackingexperience.tumblr.com/).
@@ -81,3 +81,6 @@ Now we will use pip to intall the Dropbox SDk
     opkg install distribute
     easy_install pip
     pip install dropbox
+
+
+    <a href="http://biohackingexperience.tumblr.com/"><img src="https://github.com/paDIYs/MicroGazer/blob/master/microGazer%40MF2014.jpg" width="600px"/></a><a href="http://biohackingexperience.tumblr.com/"><img src="https://github.com/paDIYs/MicroGazer/blob/master/petriDish.jpg" width="600px"/></a><a href="http://biohackingexperience.tumblr.com/"><img src="https://github.com/paDIYs/MicroGazer/blob/master/petriDIsh2.jpg" width="600px"/></a>
