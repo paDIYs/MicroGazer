@@ -83,8 +83,8 @@ Now we will use pip to intall the Dropbox SDk
     pip install dropbox
 
 
-    <a href="http://biohackingexperience.tumblr.com/"><img src="https://github.com/paDIYs/MicroGazer/blob/master/microGazer%40MF2014.jpg" width="400px"/></a>
+<a href="http://biohackingexperience.tumblr.com/"><img src="https://github.com/paDIYs/MicroGazer/blob/master/microGazer%40MF2014.jpg" width="400px"/></a>
 
-    <a href="http://biohackingexperience.tumblr.com/"><img src="https://github.com/paDIYs/MicroGazer/blob/master/petriDish.jpg" width="400px"/></a>
+<a href="http://biohackingexperience.tumblr.com/"><img src="https://github.com/paDIYs/MicroGazer/blob/master/petriDish.jpg" width="400px"/></a>
 
-    <a href="http://biohackingexperience.tumblr.com/"><img src="https://github.com/paDIYs/MicroGazer/blob/master/petriDIsh2.jpg" width="400px"/></a>
+<a href="http://biohackingexperience.tumblr.com/"><img src="https://github.com/paDIYs/MicroGazer/blob/master/petriDIsh2.jpg" width="400px"/></a>
