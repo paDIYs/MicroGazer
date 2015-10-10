@@ -7,7 +7,7 @@ The “Micro-Gazer” is an innovative tool developed by the BioHacker Experienc
 
 The MicroGazer is equipped with a backlit rotating plate, that can host up to 5 Petri dishes, and a capture position with a camera. It is controlled by an Arduino Yun board that manages the camera and the motor that moves the rotating plate. The images acquired by the camera are stored on the memory of the Arduino board and, if connected to the internet, uploaded to the cloud.  Thus, the images document the growth of the bacteria colonies and they can be used to create a time-lapse video that highlight the complexity (the dimensions and directions) of bacteria proliferation.
 
-## PROCEDURE
+## Procedure
 * STEP1: The Petri Dishes are prepared with culture medium without any type of antibiotics.
 
 * STEP2: The Maker can inoculate the Petri dish by touching the medium surface with her/his skin, breathing on it or using a buccal swab.
@@ -16,7 +16,7 @@ The MicroGazer is equipped with a backlit rotating plate, that can host up to 5 
 
 * STEP4: The MicroGazer incubate the Petri Dishes and periodically capture a photograph of each Petri dish, documenting the bacteria growth.
 
-## RECIPE & EXPERIMENT DESCRIPTION
+## Recipe & Experiment Description
 ##### Home Made DIY Solid Culture Media
 * 10g table salt to provides ions for transport and osmotic balance
 
@@ -52,6 +52,7 @@ Stefano Paradiso, Valentina Margaria, Riccardo Castagna, Irio Lavagno, Alessandr
 
 ## Software configuration
 
+
 ##### UVC driver and webcam software
 update the software list:
 
@@ -68,6 +69,7 @@ we will also need the python-openssl:
 install the webcam software:
 
     opkg install fswebcam
+
 
 
 ##### Dropbox API
