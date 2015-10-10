@@ -39,7 +39,7 @@ Stefano Paradiso, Valentina Margaria, Riccardo Castagna, Irio Lavagno, Alessandr
 
 ## BOM
 * Arduino Yun
-* Stepper motor
+* Stepper motor NEMA 17
 * Voltage regulator 5 volt [L7800](http://cdn.sparkfun.com/datasheets/Components/General/TO-220.pdf)
 * H bridge [SN754410](https://www.sparkfun.com/datasheets/IC/SN754410.pdf)
 * UVC compatible USB webcam [List](https://en.wikipedia.org/wiki/List_of_USB_video_class_devices)
@@ -48,6 +48,7 @@ Stefano Paradiso, Valentina Margaria, Riccardo Castagna, Irio Lavagno, Alessandr
 * 4mm plywood 100 x 60cm
 * 4mm plexiglass 50 x 25cm
 * n.12 bolts and nuts M3 16mm
+* n.3 Balls casters
 
 ## Software configuration
 
@@ -72,7 +73,7 @@ install the webcam software:
 ##### Dropbox API
 
 We must create un APP on our Dropbox account [https://www.dropbox.com/developers](https://www.dropbox.com/developers)
-Now we will use pipt to intall the Dropbox SDk
+Now we will use pip to intall the Dropbox SDk
 
     opkg update
     opkg install distribute
