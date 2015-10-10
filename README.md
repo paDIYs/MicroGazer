@@ -1,4 +1,8 @@
 # MicroGazer
+
+<a href="http://biohackingexperience.tumblr.com/"><img src="https://github.com/paDIYs/MicroGazer/blob/master/microgazer.JPG" width="100%"/></a>
+
+
 The “Micro-Gazer” is an innovative tool developed by the BioHacker Experience in collaboration with the FabLabTO: it is an automatic station for visualizing and analyzing the microbial growth on Petri Dish inoculated with the "Microbiome of a Maker" [learne more](http://biohackingexperience.tumblr.com/).
 
 The MicroGazer is equipped with a backlit rotating plate, that can host up to 5 Petri dishes, and a capture position with a camera. It is controlled by an Arduino Yun board that manages the camera and the motor that moves the rotating plate. The images acquired by the camera are stored on the memory of the Arduino board and, if connected to the internet, uploaded to the cloud.  Thus, the images document the growth of the bacteria colonies and they can be used to create a time-lapse video that highlight the complexity (the dimensions and directions) of bacteria proliferation.
@@ -63,6 +67,7 @@ we will also need the python-openssl:
 install the webcam software:
 
     opkg install fswebcam
+
 
 ##### Dropbox API
 
